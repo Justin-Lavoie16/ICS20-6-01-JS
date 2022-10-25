@@ -2,7 +2,7 @@
 
 if (navigator.serviceWorker) {
   navigator.serviceWorker.register("/Justin-Lavoie16/Unit-6-01-JS", {
-    scope: "/Justin-Lavoie16/",
+    scope: "/ICS20-6-01-JS/",
   })
 }
 
